@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/jbferraz/Documents/NetBeansProjects/INF3M212-LivrariaPOO-BD/src/dao/ClienteDAO.java</file>
-            <file>file:/C:/Users/jbferraz/Documents/NetBeansProjects/INF3M212-LivrariaPOO-BD/src/conexao/Conexao.java</file>
+            <file>file:/C:/Users/182120039/Documents/NetBeansProjects/STech-INF3M212-LivrariaPOODAO/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/182120039/Documents/NetBeansProjects/STech-INF3M212-LivrariaPOODAO/src/services/EditoraServicos.java</file>
+            <file>file:/C:/Users/182120039/Documents/NetBeansProjects/STech-INF3M212-LivrariaPOODAO/src/dao/EditoraDAO.java</file>
+            <file>file:/C:/Users/182120039/Documents/NetBeansProjects/STech-INF3M212-LivrariaPOODAO/src/inf3m212/livrariapoo/INF3M212LivrariaPOO.java</file>
         </group>
     </open-files>
 </project-private>
